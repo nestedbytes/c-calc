@@ -1,0 +1,1 @@
+Hello. I am learning c ! so this is my first project. A simple calculator.
